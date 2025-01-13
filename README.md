@@ -1,48 +1,83 @@
-# Astro Starter Kit: Basics
+## ESP:
 
-```sh
-npm create astro@latest -- --template basics
-```
+# Proyecto 12 - Footers Lights (Responsive)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+Maquetación de dos ejemplares de footers HTML, CSS, Astro y Tailwind
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🎯 Objetivo del Proyecto
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+El objetivo de este proyecto es aplicar todo lo aprendido en HTML, CSS, Astro y Tailwind
 
-## 🚀 Project Structure
+## 👁️ Vista previa del proyecto
+<img src="public/assets/preview.jpg" width=1200>
+<img src="public/assets/previewmobile.jpg" width=300>
 
-Inside of your Astro project, you'll see the following folders and files:
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## 🛠️ Estructura del Proyecto
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+El proyecto está organizado por componentes. Cada componente es utilizado en el index.astro
 
-## 🧞 Commands
 
-All commands are run from the root of the project, from a terminal:
+## 🚀 Funcionalidades y uso
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+Podrás usar la página pinchando en el siguiente enlace gracias a Github Pages:
 
-## 👀 Want to learn more?
+https://kaeedev.github.io/Proyecto-12-Footers-Lights/
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## 🛠️ Instalación y Ejecución
+
+1. Clona este repositorio:
+   ```bash
+   https://github.com/kaeedev/Proyecto-12-Footers-Lights.git
+
+2. No requiere de instalación. Con la extensión live server o similares de VSCODE podrás ver el proyecto de manera local
+
+## 📝 Licencia
+
+Este proyecto está disponible únicamente para uso **docente** y con fines de aprendizaje.
+
+### Condiciones:
+- El código fuente de este proyecto puede ser usado, modificado y distribuido solo con fines educativos.
+
+Si tienes alguna duda o quieres utilizar algún recurso de este proyecto, por favor contacta conmigo.
+
+---
+
+## ENG:
+
+# Project 12 - Footers Lights (Responsive)
+
+Layout of a online forum made with HTML, CSS, Astro, and Tailwind
+
+## 🎯 Project Objective
+
+The goal of this project is to apply everything learned in HTML, CSS, Astro, and Tailwind.
+
+## 👁️ Project Preview
+<img src="public/assets/preview.jpg" width=1200>
+<img src="public/assets/previewmobile.jpg" width=300>
+
+## 🛠️ Project Structure
+
+Layout of two examples of footers using HTML, CSS, Astro, and Tailwind
+
+## 🚀 Features and Usage
+
+You can access the page by clicking the following link, thanks to GitHub Pages:
+
+https://kaeedev.github.io/Proyecto-12-Footers-Lights/
+
+## 🛠️ Installation and Execution
+Clone this repository:
+  ```bash
+  https://github.com/kaeedev/Proyecto-12-Footers-Lights.git
+  ```
+
+No installation is required. You can view the project locally using the Live Server extension or similar tools in VSCode.
+
+## 📝 License
+This project is available solely for educational purposes and learning.
+
+Conditions:
+The source code of this project can be used, modified, and distributed only for educational purposes.
+If you have any questions or want to use any resource from this project, please contact me.
